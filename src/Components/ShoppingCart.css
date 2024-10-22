@@ -37,3 +37,17 @@
     cursor: pointer;
     margin-top: 10px;
   }
+
+.supercoin {
+    flex: 1;
+    padding: 0 20px;
+  }
+
+  .supercoin-title {
+    text-align: center;
+  }
+
+  .supercoins {
+    list-style: none;
+    padding: 0;
+  }
